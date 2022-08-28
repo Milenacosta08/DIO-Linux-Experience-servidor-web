@@ -17,6 +17,6 @@ wget https://github.com/denilsonbonatti/linux-projeto2-iac/archive/refs/heads/ma
 
 unzip main.zip
 
-cd linux-projeto2-iac-main
+cd linux-site-dio-main
 
 cp -R * /var/www/html/
